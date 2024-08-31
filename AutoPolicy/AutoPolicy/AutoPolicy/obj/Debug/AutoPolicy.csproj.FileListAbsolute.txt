@@ -1,0 +1,8 @@
+D:\OneDrive\Data_LocalAndOnline\Teaching material\CIS 340\Spring 2023\Week 4\fig06_11-12\AutoPolicy\AutoPolicy\bin\Debug\AutoPolicy.exe.config
+D:\OneDrive\Data_LocalAndOnline\Teaching material\CIS 340\Spring 2023\Week 4\fig06_11-12\AutoPolicy\AutoPolicy\bin\Debug\AutoPolicy.exe
+D:\OneDrive\Data_LocalAndOnline\Teaching material\CIS 340\Spring 2023\Week 4\fig06_11-12\AutoPolicy\AutoPolicy\bin\Debug\AutoPolicy.pdb
+D:\OneDrive\Data_LocalAndOnline\Teaching material\CIS 340\Spring 2023\Week 4\fig06_11-12\AutoPolicy\AutoPolicy\obj\Debug\AutoPolicy.csproj.AssemblyReference.cache
+D:\OneDrive\Data_LocalAndOnline\Teaching material\CIS 340\Spring 2023\Week 4\fig06_11-12\AutoPolicy\AutoPolicy\obj\Debug\AutoPolicy.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Data_LocalAndOnline\Teaching material\CIS 340\Spring 2023\Week 4\fig06_11-12\AutoPolicy\AutoPolicy\obj\Debug\AutoPolicy.csproj.CoreCompileInputs.cache
+D:\OneDrive\Data_LocalAndOnline\Teaching material\CIS 340\Spring 2023\Week 4\fig06_11-12\AutoPolicy\AutoPolicy\obj\Debug\AutoPolicy.exe
+D:\OneDrive\Data_LocalAndOnline\Teaching material\CIS 340\Spring 2023\Week 4\fig06_11-12\AutoPolicy\AutoPolicy\obj\Debug\AutoPolicy.pdb

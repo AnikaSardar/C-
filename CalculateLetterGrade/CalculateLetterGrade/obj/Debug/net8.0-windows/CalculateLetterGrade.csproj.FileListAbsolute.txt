@@ -1,0 +1,16 @@
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.AssemblyInfoInputs.cache
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.AssemblyInfo.cs
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net8.0-windows\CalculateLetterGrade.exe
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net8.0-windows\CalculateLetterGrade.deps.json
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net8.0-windows\CalculateLetterGrade.runtimeconfig.json
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net8.0-windows\CalculateLetterGrade.dll
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net8.0-windows\CalculateLetterGrade.pdb
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.frmCalculateGrade.resources
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.dll
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net8.0-windows\refint\CalculateLetterGrade.dll
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.pdb
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.genruntimeconfig.cache
+C:\Users\elasa\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net8.0-windows\ref\CalculateLetterGrade.dll

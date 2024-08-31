@@ -1,0 +1,16 @@
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net6.0-windows7.0\CalculateLetterGrade.exe
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net6.0-windows7.0\CalculateLetterGrade.deps.json
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net6.0-windows7.0\CalculateLetterGrade.runtimeconfig.json
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net6.0-windows7.0\CalculateLetterGrade.dll
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\net6.0-windows7.0\CalculateLetterGrade.pdb
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows7.0\CalculateLetterGrade.frmCalculateGrade.resources
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows7.0\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows7.0\CalculateLetterGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows7.0\CalculateLetterGrade.AssemblyInfoInputs.cache
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows7.0\CalculateLetterGrade.AssemblyInfo.cs
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows7.0\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows7.0\CalculateLetterGrade.dll
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows7.0\refint\CalculateLetterGrade.dll
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows7.0\CalculateLetterGrade.pdb
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows7.0\CalculateLetterGrade.genruntimeconfig.cache
+C:\Users\elasa\Downloads\CalculateLetterGrade-1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\net6.0-windows7.0\ref\CalculateLetterGrade.dll

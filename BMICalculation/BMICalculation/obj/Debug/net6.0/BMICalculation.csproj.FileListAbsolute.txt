@@ -1,0 +1,15 @@
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\bin\Debug\net6.0\BMICalculation.exe
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\bin\Debug\net6.0\BMICalculation.deps.json
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\bin\Debug\net6.0\BMICalculation.runtimeconfig.json
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\bin\Debug\net6.0\BMICalculation.dll
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\bin\Debug\net6.0\BMICalculation.pdb
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\obj\Debug\net6.0\BMICalculation.csproj.AssemblyReference.cache
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\obj\Debug\net6.0\BMICalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\obj\Debug\net6.0\BMICalculation.AssemblyInfoInputs.cache
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\obj\Debug\net6.0\BMICalculation.AssemblyInfo.cs
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\obj\Debug\net6.0\BMICalculation.csproj.CoreCompileInputs.cache
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\obj\Debug\net6.0\BMICalculation.dll
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\obj\Debug\net6.0\refint\BMICalculation.dll
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\obj\Debug\net6.0\BMICalculation.pdb
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\obj\Debug\net6.0\BMICalculation.genruntimeconfig.cache
+C:\Users\asard395\OneDrive - UWSP\CIS 340\VS Spring 2024 workspace\BMICalculation\BMICalculation\obj\Debug\net6.0\ref\BMICalculation.dll
